@@ -1,0 +1,15 @@
+/* *{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.container{
+    display: flex;
+}
+
+.btn__counter{
+    padding: 8px ;
+    font-weight: 600;
+    font-size: 20px;
+} */
